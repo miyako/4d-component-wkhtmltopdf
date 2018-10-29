@@ -17,8 +17,6 @@ It is very hard to use ``libwkhtmltopdf`` as a plugin-style module for 4D. The m
 
 ![preemption xx](https://user-images.githubusercontent.com/1725068/41327179-4e839948-6efd-11e8-982b-a670d511e04f.png)
 
-Object notation required.
-
 ### Releases
 
 [1.0](https://github.com/miyako/4d-component-wkhtmltopdf/releases/tag/1.0) 
