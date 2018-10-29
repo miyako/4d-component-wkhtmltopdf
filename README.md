@@ -17,7 +17,7 @@ It is very hard to use ``libwkhtmltopdf`` as a plugin-style module for 4D. The m
 
 ![preemption xx](https://user-images.githubusercontent.com/1725068/41327179-4e839948-6efd-11e8-982b-a670d511e04f.png)
 
-Object notation required (16R or later).
+Object notation required.
 
 ### Releases
 
