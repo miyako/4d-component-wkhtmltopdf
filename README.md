@@ -63,7 +63,6 @@ $options.localFileAccess:=True
 
 $options.zoom:=2
 
-
   //repeatable properties not implemented;
   //allow,bypassProxyFor,cookie*,customHeader,post,postFile,runScript,replace
 
