@@ -19,7 +19,7 @@ It is very hard to use ``libwkhtmltopdf`` as a plugin-style module for 4D. The m
 
 ### Releases
 
-[1.0](https://github.com/miyako/4d-component-wkhtmltopdf/releases/tag/1.0) 
+[1.1](https://github.com/miyako/4d-component-wkhtmltopdf/releases/tag/1.1) 
 
 ### Usage
 
