@@ -13,7 +13,7 @@ It is very hard to use ``libwkhtmltopdf`` as a plugin-style module for 4D. The m
 
 ### Version
 
-<img src="https://user-images.githubusercontent.com/1725068/47626105-c271f800-db6c-11e8-90ae-9bd4f24dc783.png" width="32" height="32" /> <img src="https://user-images.githubusercontent.com/1725068/41266195-ddf767b2-6e30-11e8-9d6b-2adf6a9f57a5.png" width="32" height="32" />
+<img src="https://user-images.githubusercontent.com/1725068/41266195-ddf767b2-6e30-11e8-9d6b-2adf6a9f57a5.png" width="32" height="32" />
 
 ![preemption xx](https://user-images.githubusercontent.com/1725068/41327179-4e839948-6efd-11e8-982b-a670d511e04f.png)
 
