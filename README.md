@@ -5,6 +5,31 @@
 
 It is very hard to use ``libwkhtmltopdf`` as a plugin-style module for 4D. The menu bar is corrupted, the event loop is disrupted...just not worth it. Much easier to run the CLI with ``LAUNCH EXTERNAL PROCESS``. Thankfully the command is now thread safe. 
 
+#### About Notarisation
+
+If ``wkhtmltopdf`` is notarised without entitlements,
+
+i.e.
+
+```sh
+codesign 
+	--verbose 
+	--deep 
+	--timestamp
+	--force 
+	--sign "Developer ID Application: keisuke miyako (Y69CWUC25B)" 
+	--options=runtime 
+```
+
+it will not work anymore.
+
+```
+Loading pages (1/6)
+Bus error: 10                                                ] 10%
+```
+
+It must be codesigned and notarised with sufficient entitlements.
+
 ### Platform
 
 | carbon | cocoa | win32 | win64 |
