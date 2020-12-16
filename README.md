@@ -1,4 +1,5 @@
 ![platform](https://img.shields.io/static/v1?label=platform&message=osx-64%20|%20win-32%20|%20win-64&color=blue)
+![version](https://img.shields.io/badge/version-18%2B-EB8E5F)
 [![license](https://img.shields.io/github/license/miyako/4d-component-wkhtmltopdf)](LICENSE)
 ![downloads](https://img.shields.io/github/downloads/miyako/4d-component-wkhtmltopdf/total)
 
