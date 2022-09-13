@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="HTML2PDF" uuid="59B608979F0B4D77AC7A0E2AA188A1B0" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra __stringCompHash="icu:68.1.0" __keywordBuildingHash="icu:68.1.0" package_name="HTML2PDF" structure_file_name="HTML2PDF" data_file_path=":HTML2PDF.4DD">
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>
