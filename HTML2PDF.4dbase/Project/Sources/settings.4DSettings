@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><preferences stamp="6">
+	<com.4d>
+		<deployment>
+			<options/>
+		</deployment>
+		<compiler>
+			<typage default_for_button="2" default_for_numeric="1"/>
+			<options fat_binary="true" target="all"/>
+		</compiler>
+		<database>
+			<cache adaptative="false" flush_buffer_delay="20s"/>
+			<misc standard_xpath="false"/>
+		</database>
+		<server>
+			<network>
+				<options publication_name="HTML2PDF" use_legacy_network_layer="false"/>
+				<client_server use_encryption="false"/>
+			</network>
+		</server>
+		<web>
+			<standalone_server>
+				<configuration automatic_session_management="true" port_number="80" session_mode="3"/>
+			</standalone_server>
+			<remote>
+				<configuration automatic_session_management="true" session_mode="3"/>
+			</remote>
+		</web>
+		<sql>
+			<publication port_number="19812"/>
+		</sql>
+	</com.4d>
+</preferences>

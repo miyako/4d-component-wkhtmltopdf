@@ -1,0 +1,25 @@
+{
+	"Console": {
+		"methods": [
+			"console",
+			"m_getLastError",
+			"m_handler",
+			"m_log",
+			"m_start",
+			"m_stop"
+		]
+	},
+	"LEP": {
+		"methods": [
+			"_argument",
+			"err_wkhtmltopdf",
+			"LEP_Escape",
+			"LEP_Escape_path",
+			"test_1",
+			"test_err_log",
+			"wkhtmltopdf",
+			"wkhtmltopdf_get_path"
+		]
+	},
+	"trash": {}
+}
